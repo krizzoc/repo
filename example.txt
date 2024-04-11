@@ -3,3 +3,5 @@ example for repo understanding!
 made a change to send this file to branch option2 after branch Option1
    #creat a branch with "git checkout -b option1
    # again same steps add,commit,push(push with origin <branch name>)
+success!
+now task is to pull it back
